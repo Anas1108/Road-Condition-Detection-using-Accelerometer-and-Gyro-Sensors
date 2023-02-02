@@ -1,5 +1,8 @@
 # Road Condition Detection using Accelerometer and Gyro Sensors
 
+## Download Dataset from the foloowing link:
+- https://drive.google.com/file/d/1qvbFLC8TEJQr-MwGrK-7oOSnwNb_x5GD/view?usp=sharing
+
 ## Introduction
 This project aims to detect road conditions using accelerometer and gyro sensors. The goal is to answer the following questions:
 
