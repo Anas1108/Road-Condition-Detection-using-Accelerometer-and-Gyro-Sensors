@@ -1,6 +1,6 @@
 # Road Condition Detection using Accelerometer and Gyro Sensors
 
-## Download Dataset from the foloowing link:
+## Download Dataset from the following link:
 - https://drive.google.com/file/d/1qvbFLC8TEJQr-MwGrK-7oOSnwNb_x5GD/view?usp=sharing
 
 ## Introduction
